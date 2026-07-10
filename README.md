@@ -124,13 +124,13 @@ Terraform displays:
 
 ### 8. Terraform Destroy
 
-![Terraform Destroy](screenshots/8-terraform-destroy.png)
+![Terraform Destroy](screenshots/08-terraform-destroy.png)
 
 ---
 
 ### 9. EC2 Successfully Removed
 
-![EC2 Terminated](screenshots/9-ec2-terminated.png)
+![EC2 Terminated](screenshots/09-ec2-terminated.png)
 
 ---
 
